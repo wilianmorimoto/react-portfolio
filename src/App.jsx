@@ -5,7 +5,7 @@ import Sidebar from './components/Sidebar'
 
 function App() {
   return (
-    <div id="portfolio">
+    <div id="portfolio" >
       <h1>Wilian Morimoto</h1>
       <Sidebar />
       <MainContent/>
